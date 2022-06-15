@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Meu nome é Paulo
+- 🔭 Meu nome é Paulo Kienen
 - 🌱 estudo no Emilio de Menezes
 - 👯 trabalho em casa de pipas
 - 🤔 torço para o Palmeiras
